@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="text_next_activity">Congratulations! You have moved to the next screen.</string>
+    <string name="button_click_congratulate">Click</string>
+    <string name="text_clicked_congratulate_btn">You tap at button</string>
+    <string name="text_wrong_email">Wrong email!</string>
+    <string name="text_wrong_password">Wrong password!</string>
+</resources>
